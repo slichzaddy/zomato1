@@ -11,6 +11,4 @@ The major parts of this project have been to :
 This project has further scope of improvement such that we can then tell the client which area they can improve and hence target the process. 
 
 the screenshots are as follows-
-![alt text](C:\Users\Acer\Pictures\Screenshots)
-![alt text](C:\Users\Acer\Downloads)
-![alt text](C:\Users\Acer\Downloads)
+
