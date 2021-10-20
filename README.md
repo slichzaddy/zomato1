@@ -12,3 +12,8 @@ This project has further scope of improvement such that we can then tell the cli
 
 the screenshots are as follows-
 
+!(https://user-images.githubusercontent.com/43790568/138046503-9afcb9d5-61ff-4816-898b-0d52cb673ba2.jpg)
+
+!(https://user-images.githubusercontent.com/43790568/138046521-e11b5625-3f02-4d3b-8674-8295b32c099d.png)
+
+!(https://user-images.githubusercontent.com/43790568/138046530-b0dd14e2-2eb2-4581-a26b-6fa1c2149979.png)
