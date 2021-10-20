@@ -11,9 +11,11 @@ The major parts of this project have been to :
 This project has further scope of improvement such that we can then tell the client which area they can improve and hence target the process. 
 
 the screenshots are as follows-
-
+Flowchart:
 !(https://user-images.githubusercontent.com/43790568/138046503-9afcb9d5-61ff-4816-898b-0d52cb673ba2.jpg)
 
+Input:
 !(https://user-images.githubusercontent.com/43790568/138046521-e11b5625-3f02-4d3b-8674-8295b32c099d.png)
 
+Output:
 !(https://user-images.githubusercontent.com/43790568/138046530-b0dd14e2-2eb2-4581-a26b-6fa1c2149979.png)
